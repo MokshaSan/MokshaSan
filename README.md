@@ -1,6 +1,6 @@
 # Hi 👋, I'm Moksha Sandavirage
 
-### A passionate Typescript developer
+### A passionate  developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
